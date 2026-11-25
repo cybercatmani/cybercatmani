@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="cybercatmani-banner.png" width="100%" alt="Cybercatmani Cybersecurity Banner"/>
+</div>
+
+---
+
+<div align="center">
 
 # ⚡ CYBERCATMANI
 
