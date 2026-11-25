@@ -27,7 +27,7 @@
 ```bash
 Name       : Manikandan P
 Role       : Aspiring SOC Analyst
-Focus      : Cybersecurity Analyst
+Focus      : Cybersecurity & Blue Team Operations
 Learning   : SIEM, Threat Detection, Incident Response
 Goal       : Become a skilled Cybersecurity Professional
 ```
