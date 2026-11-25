@@ -55,15 +55,29 @@ Goal       : Become a skilled Cybersecurity Professional
 
 ---
 
+
 ## 🚀 FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🛡️ SOC Sentinel | Security monitoring and threat detection lab |
-| 🔍 SOC Monitoring Lab | SIEM-based security investigation |
-| 🚨 Incident Response Lab | Practical incident investigation |
+### 🛡️ 1. Enterprise SOC Lab
+A hands-on enterprise security operations lab.
 
-Explore my repositories to see the implementation and documentation.
+[📂 Explore Project](https://github.com/cybercatmani/cybersecurity-projects/tree/main/enterprise-soc-lab)
+
+### 🔍 2. SOC Sentinel
+A cybersecurity project focused on SOC operations.
+
+[📂 Explore Project](https://github.com/cybercatmani/cybersecurity-projects/tree/main/soc-sentinel)
+
+### 🚨 3. Threat Hunting & IR Automation
+A project focused on threat hunting and incident response automation.
+
+[📂 Explore Project](https://github.com/cybercatmani/cybersecurity-projects/tree/main/threat-hunting-ir-automation)
+
+---
+
+📁 All three projects are available in my
+[Cybersecurity Projects Repository](https://github.com/cybercatmani/cybersecurity-projects).
+
 
 ---
 
